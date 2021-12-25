@@ -10,7 +10,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - It contains a CV and cv downloadable as pdf.
 
-### [Live Website](https://lawyer-website-onepage.netlify.app/)
+### [Live Website](https://cv-template-rasulsonmez.netlify.app/)
 
 ## Used packages cdn
 
